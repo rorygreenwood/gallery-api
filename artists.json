@@ -1,0 +1,72 @@
+[
+  {
+    "artist_id": "rembrandt",
+    "name": "Rembrandt van Rijn",
+    "nationality": "dutch",
+    "century": "17th",
+    "tags": ["dutch_golden_age"]
+  },
+  {
+    "artist_id": "reubens",
+    "name": "Peter Paul Reubens",
+    "nationality": "flemish",
+    "century": "17th",
+    "tags": ["baroque"]
+  },
+  {
+    "artist_id": "ruisdael",
+    "name": "Jacob van Ruisdael",
+    "nationality": "dutch",
+    "century": "17th",
+    "tags": ["dutch_golden_age"]
+  },
+  {
+    "artist_id": "caravaggio",
+    "name": "Caravaggio",
+    "nationality": "italian",
+    "century": "16th",
+    "tags": ["baroque"]
+  },
+  {
+    "artist_id": "gericault",
+    "name": "Theodore Gericault",
+    "nationality": "french",
+    "century": "18th",
+    "tags": ["romanticism"]
+  },
+  {
+    "artist_id": "courbet",
+    "name": "Gustave Courbet",
+    "nationality": "french",
+    "century": "19th",
+    "tags": ["realism"]
+  },
+  {
+    "artist_id": "bouguereau",
+    "name": "William Bouguereau",
+    "nationality": "french",
+    "century": "19th",
+    "tags": ["realism", "academic", "neoclassicism"]
+  },
+  {
+    "artist_id": "van_goyen",
+    "name": "Jan van Goyen",
+    "nationality": "dutch",
+    "century": "17th",
+    "tags": ["dutch_golden_age"]
+  },
+  {
+    "artist_id": "repin",
+    "name": "Ilya Repin",
+    "nationality": "russian",
+    "century": "19th",
+    "tags": ["realism"]
+  },
+  {
+    "artist_id": "martin",
+    "name": "John Martin",
+    "nationality": "english",
+    "century": "19th",
+    "tags": ["romanticism"]
+  }
+]

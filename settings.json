@@ -1,0 +1,11 @@
+{
+  "display_duration_s": 1000,
+  "shuffle": true,
+  "filters": {
+    "artists": ["rembrandt"],
+    "nationalities": ["italian"],
+    "tags": ["baroque"],
+    "start_year": null,
+    "end_year": null
+  }
+}

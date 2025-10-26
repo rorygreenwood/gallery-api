@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Belshazzar's Feast",
+    "filepath": "belshazzars_feast.jpg",
+    "artist_id": "rembrandt",
+    "year": 1638
+  },
+  {
+    "name": "Philemon and Baucis",
+    "filepath": "philemon_and_baucis.jpg",
+    "artist_id": "rembrandt",
+    "year": 1658
+  },
+  {
+    "name": "The Blinding of Samson",
+    "filepath": "blinding_of_samson.jpg",
+    "artist_id": "rembrandt",
+    "year": 1636
+  },
+  {
+    "name": "Daniel in the Lion's Den",
+    "filepath": "daniel_in_the_lions_den.jpg",
+    "artist_id": "reubens",
+    "year": 1616
+  },
+  {
+    "name": "The Garden of Eden With The Fall Of Man",
+    "filepath": "the_garden_of_eden_with_the_fall_of_man.jpg",
+    "artist_id": "reubens",
+    "year": 1615
+  },
+  {
+    "name": "caravaggio's painting",
+    "filepath": "caravaggio.jpg",
+    "artist_id": "caravaggio"
+  }
+]
