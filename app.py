@@ -1,4 +1,5 @@
 import json
+import urllib.request
 
 from flask import Flask, send_from_directory
 
@@ -75,10 +76,26 @@ def edit():
 def get_image(filename):
     try:
         return send_from_directory(directory='gallery',
-                            path=filename,
-                            as_attachment=False)
+                                   path=filename,
+                                   as_attachment=False)
     except FileNotFoundError:
         return {'File not found'}
 
+# On setup, we require the ip for the device
+def _get_device_ip():
+    try:
+        # We use ipinfo.io, which returns a JSON response
+        with urllib.request.urlopen("https://ipinfo.io/json") as response:
+            if response.status == 200:
+                data = json.load(response)
+                return data.get("ip")
+            else:
+                print(f"Error: Received status code {response.status}")
+                return None
+    except Exception as e:
+        print(f"Error fetching public IP: {e}")
+        return None
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    device_ip = _get_device_ip()
+    app.run(debug=True, host='0.0.0.0', port=5000)

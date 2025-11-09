@@ -2,9 +2,9 @@
   "display_duration_s": 1000,
   "shuffle": true,
   "filters": {
-    "artists": ["rembrandt"],
-    "nationalities": ["italian"],
-    "tags": ["baroque"],
+    "artists": ["van_der_heyden", "rubens"],
+    "nationalities": [],
+    "tags": [],
     "start_year": null,
     "end_year": null
   }

@@ -1,37 +1,122 @@
 [
   {
     "name": "Belshazzar's Feast",
-    "filepath": "belshazzars_feast.jpg",
+    "filepath": "rembrandt_1.jpg",
     "artist_id": "rembrandt",
     "year": 1638
   },
   {
     "name": "Philemon and Baucis",
-    "filepath": "philemon_and_baucis.jpg",
+    "filepath": "rembrandt_2.jpg",
     "artist_id": "rembrandt",
     "year": 1658
   },
   {
     "name": "The Blinding of Samson",
-    "filepath": "blinding_of_samson.jpg",
+    "filepath": "rembrandt_3.jpg",
     "artist_id": "rembrandt",
     "year": 1636
   },
   {
+    "name": "The Sampling Officials of the Draper's Guild",
+    "filepath": "rembrandt_4.jpg",
+    "artist_id": "rembrandt",
+    "year": 1662
+  },
+  {
+    "name": "Daniel and Cyrus Before the Idol Bell",
+    "filepath": "rembrandt_5.jpg",
+    "artist_id": "rembrandt",
+    "year": 1633
+  },
+  {
     "name": "Daniel in the Lion's Den",
-    "filepath": "daniel_in_the_lions_den.jpg",
-    "artist_id": "reubens",
+    "filepath": "rubens_1.jpg",
+    "artist_id": "rubens",
     "year": 1616
   },
   {
     "name": "The Garden of Eden With The Fall Of Man",
-    "filepath": "the_garden_of_eden_with_the_fall_of_man.jpg",
-    "artist_id": "reubens",
+    "filepath": "rubens_2.jpg",
+    "artist_id": "rubens",
     "year": 1615
   },
   {
-    "name": "caravaggio's painting",
-    "filepath": "caravaggio.jpg",
-    "artist_id": "caravaggio"
+    "name": "The Amazon Battle",
+    "filepath": "rubens_3.jpg",
+    "artist_id": "rubens",
+    "year": 1618
+  },
+  {
+    "name": "The Coronation of Marie De Medicis",
+    "filepath": "rubens_4.jpg",
+    "artist_id": "rubens",
+    "year": 1610
+  },
+  {
+    "name": "Adoration of the Magi",
+    "filepath": "rubens_5.jpg",
+    "artist_id": "rubens",
+    "year": 1628
+  },
+  {
+    "name": "The Fall of Phaeton",
+    "filepath": "rubens_6.jpg",
+    "artist_id": "rubens",
+    "year": 1604
+  },
+  {
+    "name": "Taste",
+    "filepath": "rubens_7.jpg",
+    "artist_id": "rubens",
+    "year": 1618
+  },
+  {
+    "name": "Hero and Leander",
+    "filepath": "rubens_8.jpg",
+    "artist_id": "rubens",
+    "year": 1604
+  },
+  {
+    "name": "The Meeting of Abraham and Melchizedek",
+    "filepath": "rubens_9.jpg",
+    "artist_id": "rubens",
+    "year": 1626
+  },
+  {
+    "name": "The Wolf and Fox Hunt",
+    "filepath": "rubens_10.jpg",
+    "artist_id": "rubens",
+    "year": 1616
+  },
+  {
+    "name": "The Church of St Andrew in Dusseldorf",
+    "filepath": "van_der_heyden_1.jpg",
+    "artist_id": "van_der_heyden",
+    "year": 1667
+  },
+  {
+    "name": "The Church of St Severin",
+    "filepath": "van_der_heyden_2.jpg",
+    "artist_id": "van_der_heyden",
+    "year": 1672
+  },
+  {
+    "name": "Die Kirkplatiz Von Veere in Zeeland",
+    "filepath": "van_der_heyden_3.jpg",
+    "artist_id": "van_der_heyden",
+    "year": 1660
+  },
+  {
+    "name": "The Huis Ten Bosch at the Hague",
+    "filepath": "van_der_heyden_4.jpg",
+    "artist_id": "van_der_heyden",
+    "year": 1670
+  },
+  {
+    "name": "View of Oudezijds Voorburgwal with The Oude Kerk",
+    "filepath": "van_der_heyden_5.jpg",
+    "artist_id": "van_der_heyden",
+    "year": 1670
   }
 ]

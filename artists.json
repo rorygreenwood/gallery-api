@@ -7,8 +7,8 @@
     "tags": ["dutch_golden_age"]
   },
   {
-    "artist_id": "reubens",
-    "name": "Peter Paul Reubens",
+    "artist_id": "rubens",
+    "name": "Peter Paul Rubens",
     "nationality": "flemish",
     "century": "17th",
     "tags": ["baroque"]
@@ -68,5 +68,12 @@
     "nationality": "english",
     "century": "19th",
     "tags": ["romanticism"]
+  },
+  {
+    "artist_id": "van_der_heyden",
+    "name": "Jan van der Heyden",
+    "nationality": "dutch",
+    "century": "17th",
+    "tags": ["dutch_golden_age"]
   }
 ]
